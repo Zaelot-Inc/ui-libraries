@@ -102,6 +102,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Clarity](https://clarity.design/)
 ### CSS
   - [Pure CSS](https://purecss.io/)
+  - [Base CSS](http://basscss.com/)
 ### Angular
   - [Clarity](https://clarity.design/)
 ### React
