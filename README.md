@@ -62,7 +62,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [react-native-paper](https://github.com/callstack/react-native-paper)
 ### Vue
   - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
-  
+
 ## Fabric
 **Project Website:** https://developer.microsoft.com/en-us/fabric
 ### Sketch
@@ -74,10 +74,14 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Clippy JS](https://www.smore.com/clippy-js)
 ### React
   - [Fabric React](https://developer.microsoft.com/en-us/fabric#/components)
-  
+
 ## Foundation
 **Project Website:** https://foundation.zurb.com/
-  
+### Angular
+  - [Angular Foundation](https://foundation.zurb.com/apps/docs/#!/angular)
+### React
+  - [React Foundation](https://react.foundation/)
+
 ## Lightning
 **Project Website:** https://www.lightningdesignsystem.com/
 ### Sketch
