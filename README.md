@@ -49,6 +49,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 ### HTML/CSS
   - [Bootstrap](https://getbootstrap.com/)
 ### Angular
+  - [NG Bootstrap](https://ng-bootstrap.github.io/)
   - [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
 ### React
   - [react-bootstrap](https://react-bootstrap.github.io/)
