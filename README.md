@@ -17,6 +17,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 ## Material
 **Project Website:** https://material.io/
 ### Sketch
+  - [Material Theme Editor](https://material.io/tools/theme-editor/)
   - [sketch-material](https://github.com/websiddu/sketch-material)
   - [material-kit](https://github.com/creativetimofficial/material-kit/tree/sketch)
 ### Photoshop
