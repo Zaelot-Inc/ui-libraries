@@ -56,10 +56,6 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [react-bootstrap](https://react-bootstrap.github.io/)
   - [reactstrap](https://reactstrap.github.io/)
   - [Create-React-App Bootstrap Docs](https://facebook.github.io/create-react-app/docs/adding-bootstrap)
-### React-Native
-  - [react-native-material-kit](https://github.com/xinthink/react-native-material-kit)
-  - [react-native-material-ui](https://github.com/xotahal/react-native-material-ui)
-  - [react-native-paper](https://github.com/callstack/react-native-paper)
 ### Vue
   - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
 
