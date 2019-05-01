@@ -12,6 +12,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 1. [Fabric](#fabric)
 1. [Lightning Design System](#lightning)
 1. [Elastic](#elastic)
+1. [Basscss](#basscss)
 1. [Miscellaneous](#miscellaneous)
 
 ## Material
@@ -43,6 +44,9 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [vuetify](https://github.com/vuetifyjs/vuetify)
   - [vue-material](https://github.com/vuematerial/vue-material)
   - [material-kit](https://www.creative-tim.com/product/vue-material-kit)
+
+## Basscss
+**Project Website:** http://basscss.com/
 
 ## Bootstrap
 **Project Website:** https://getbootstrap.com/
