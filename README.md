@@ -12,7 +12,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 1. [Fabric](#fabric)
 1. [Lightning Design System](#lightning)
 1. [Elastic](#elastic)
-1. [Basscss](#basscss)
+1. [Foundation](#foundation)
 1. [Miscellaneous](#miscellaneous)
 
 ## Material
@@ -45,14 +45,12 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [vue-material](https://github.com/vuematerial/vue-material)
   - [material-kit](https://www.creative-tim.com/product/vue-material-kit)
 
-## Basscss
-**Project Website:** http://basscss.com/
-
 ## Bootstrap
 **Project Website:** https://getbootstrap.com/
 ### HTML/CSS
   - [Bootstrap](https://getbootstrap.com/)
 ### Angular
+  - [NG Bootstrap](https://ng-bootstrap.github.io/)
   - [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
 ### React
   - [react-bootstrap](https://react-bootstrap.github.io/)
@@ -77,6 +75,9 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 ### React
   - [Fabric React](https://developer.microsoft.com/en-us/fabric#/components)
   
+## Foundation
+**Project Website:** https://foundation.zurb.com/
+  
 ## Lightning
 **Project Website:** https://www.lightningdesignsystem.com/
 ### Sketch
@@ -94,15 +95,18 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Download Link in Upper Right Corner](https://elastic.github.io/eui/#/)
 ### HTML/CSS
   - [React](https://github.com/elastic/eui/blob/master/wiki/consuming.md#using-eui-in-a-standalone-project)
-  
+
 ## Miscellaneous
 ### HTML/CSS
   - [Atlaskit](https://atlaskit.atlassian.com/)
   - [Clarity](https://clarity.design/)
+### CSS
+  - [Pure CSS](https://purecss.io/)
+  - [Base CSS](http://basscss.com/)
 ### Angular
   - [Clarity](https://clarity.design/)
 ### React
-  - [Ant Design](https://element.eleme.io/#/en-US)
+  - [Ant Design](https://ant.design/)
   - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
   - [Atlaskit](https://atlaskit.atlassian.com/)
   - [Ring](https://jetbrains.github.io/ring-ui/master/index.html)
