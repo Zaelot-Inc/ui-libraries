@@ -12,6 +12,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 1. [Fabric](#fabric)
 1. [Lightning Design System](#lightning)
 1. [Elastic](#elastic)
+1. [Pure](#pure)
 1. [Miscellaneous](#miscellaneous)
 
 ## Material
@@ -90,7 +91,10 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Download Link in Upper Right Corner](https://elastic.github.io/eui/#/)
 ### HTML/CSS
   - [React](https://github.com/elastic/eui/blob/master/wiki/consuming.md#using-eui-in-a-standalone-project)
-  
+
+## Pure
+**Project Website:** https://purecss.io/
+
 ## Miscellaneous
 ### HTML/CSS
   - [Atlaskit](https://atlaskit.atlassian.com/)
