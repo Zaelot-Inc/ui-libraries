@@ -98,7 +98,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 ### Angular
   - [Clarity](https://clarity.design/)
 ### React
-  - [Ant Design](https://element.eleme.io/#/en-US)
+  - [Ant Design](https://ant.design/)
   - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
   - [Atlaskit](https://atlaskit.atlassian.com/)
   - [Ring](https://jetbrains.github.io/ring-ui/master/index.html)
