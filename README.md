@@ -13,6 +13,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 1. [Lightning Design System](#lightning)
 1. [Elastic](#elastic)
 1. [Foundation](#foundation)
+1. [Semantic](#semantic)
 1. [Miscellaneous](#miscellaneous)
 
 ## Material
@@ -71,13 +72,6 @@ If you would like to add libraries, please feel free to create a `PR` with the e
 ### React
   - [Fabric React](https://developer.microsoft.com/en-us/fabric#/components)
 
-## Foundation
-**Project Website:** https://foundation.zurb.com/
-### Angular
-  - [Angular Foundation](https://foundation.zurb.com/apps/docs/#!/angular)
-### React
-  - [React Foundation](https://react.foundation/)
-
 ## Lightning
 **Project Website:** https://www.lightningdesignsystem.com/
 ### Sketch
@@ -95,6 +89,24 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Download Link in Upper Right Corner](https://elastic.github.io/eui/#/)
 ### HTML/CSS
   - [React](https://github.com/elastic/eui/blob/master/wiki/consuming.md#using-eui-in-a-standalone-project)
+
+## Foundation
+**Project Website:** https://foundation.zurb.com/
+### Angular
+  - [Angular Foundation](https://foundation.zurb.com/apps/docs/#!/angular)
+### React
+  - [React Foundation](https://react.foundation/)
+
+## Semantic
+**Project Website:** https://semantic-ui.com/
+### React
+  - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React)
+### Angular
+  - [semantic-ui-angular](https://github.com/Semantic-Org/Semantic-UI-Angular)
+### Ember
+  - [Semantic Install Instructions](https://semantic-ui.com/introduction/integrations.html#install-via-atmosphere)
+### Meteor
+  - [Semantic Install Instructions](https://semantic-ui.com/introduction/integrations.html#installing-via-cli)
 
 ## Miscellaneous
 ### HTML/CSS
