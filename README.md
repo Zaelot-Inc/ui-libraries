@@ -105,6 +105,8 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Base CSS](http://basscss.com/)
 ### Angular
   - [Clarity](https://clarity.design/)
+  - [Covalent](https://teradata.github.io/covalent)
+  - [PrimeNG](https://www.primefaces.org/primeng)
 ### React
   - [Ant Design](https://ant.design/)
   - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
