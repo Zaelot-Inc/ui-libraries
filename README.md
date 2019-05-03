@@ -128,6 +128,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Lucid UI](http://appnexus.github.io/lucid/?selectedKind=Lucid%20UI&selectedStory=Introduction&full=0&addons=0&stories=1&panelRight=0&addonPanel=lucid-docs-panel-props)
   - [Base](https://baseweb.design/)
   - [Evergreen](https://github.com/segmentio/evergreen)
+  - [Fannypack](https://fannypack.style/)
 ### Vue
   - [Element](https://element.eleme.io/#/en-US)
   - [AT UIKIT](https://at-ui.github.io/at-ui/#/en)
