@@ -123,6 +123,7 @@ If you would like to add libraries, please feel free to create a `PR` with the e
   - [Ant Design](https://ant.design/)
   - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
   - [Atlaskit](https://atlaskit.atlassian.com/)
+  - [Reakit](https://reakit.io/)
   - [Ring](https://jetbrains.github.io/ring-ui/master/index.html)
   - [Blueprint](https://blueprintjs.com/)
   - [Lucid UI](http://appnexus.github.io/lucid/?selectedKind=Lucid%20UI&selectedStory=Introduction&full=0&addons=0&stories=1&panelRight=0&addonPanel=lucid-docs-panel-props)
